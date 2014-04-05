@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8f1a6960-176f-442c-b1d4-f8599645460e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hackit/views/partials/footer.jade" afterPath="$PROJECT_DIR$/hackit/views/partials/footer.jade" />
     </list>
     <ignored path="TempestualAuroras.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +28,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="5" selection-start="452" selection-end="452" vertical-scroll-proportion="0.28052804" vertical-offset="0" max-vertical-offset="909">
+            <state line="16" column="22" selection-start="475" selection-end="475" vertical-scroll-proportion="0.29922992" vertical-offset="0" max-vertical-offset="909">
               <folding />
             </state>
           </provider>
@@ -455,7 +454,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="5" selection-start="452" selection-end="452" vertical-scroll-proportion="0.28052804" vertical-offset="0" max-vertical-offset="909">
+        <state line="16" column="22" selection-start="475" selection-end="475" vertical-scroll-proportion="0.29922992" vertical-offset="0" max-vertical-offset="909">
           <folding />
         </state>
       </provider>

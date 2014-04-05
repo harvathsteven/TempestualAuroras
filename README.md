@@ -14,7 +14,7 @@ Features
 
 Notes
 -----
-- Running this projects currently requires:
+- Running this project currently requires:
  - Installation of Node.js
  - A running instance of MongoDB
 
